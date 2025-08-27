@@ -12,6 +12,7 @@ object FormCadastroPai: TFormCadastroPai
   Font.Name = 'Segoe UI'
   Font.Style = []
   Position = poDesktopCenter
+  OnCreate = FormCreate
   TextHeight = 15
   object pnCabecalho: TPanel
     Left = 0
@@ -71,7 +72,7 @@ object FormCadastroPai: TFormCadastroPai
     Transaction = fdTransaction
     UpdateObject = fdUpdCadastro
     Left = 792
-    Top = 256
+    Top = 248
   end
   object fdUpdCadastro: TFDUpdateSQL
     Connection = dmDados.fdCon
@@ -82,5 +83,10 @@ object FormCadastroPai: TFormCadastroPai
     Connection = dmDados.fdCon
     Left = 792
     Top = 344
+  end
+  object dsCadastro: TDataSource
+    DataSet = fdQryCadastro
+    Left = 792
+    Top = 200
   end
 end
