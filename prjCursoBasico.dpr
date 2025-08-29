@@ -7,7 +7,10 @@ uses
   uBiblioteca in 'Classes\uBiblioteca.pas',
   uFormConfigBanco in 'Forms\uFormConfigBanco.pas' {FormConfigBanco},
   uFormCadastroPai in 'Forms\uFormCadastroPai.pas' {FormCadastroPai},
-  uFormCadastroCliente in 'Forms\uFormCadastroCliente.pas' {FormCadastroCliente};
+  uFormCadastroCliente in 'Forms\uFormCadastroCliente.pas' {FormCadastroCliente},
+  uFormCadastroEstado in 'Forms\uFormCadastroEstado.pas' {FormCadastroEstado},
+  uFormCadastroCidade in 'Forms\uFormCadastroCidade.pas' {FormCadastroCidade},
+  uLookup in 'Shared\uLookup.pas' {Lookup: TDataModule};
 
 {$R *.res}
 
@@ -17,6 +20,9 @@ begin
   Application.CreateForm(TFormMain, FormMain);
   Application.CreateForm(TFormConfigBanco, FormConfigBanco);
   Application.CreateForm(TdmDados, dmDados);
+  Application.CreateForm(TLookup, Lookup);
   Application.CreateForm(TFormCadastroCliente, FormCadastroCliente);
+  Application.CreateForm(TFormCadastroEstado, FormCadastroEstado);
+  Application.CreateForm(TFormCadastroCidade, FormCadastroCidade);
   Application.Run;
 end.

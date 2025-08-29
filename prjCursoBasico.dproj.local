@@ -2,25 +2,38 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2025/08/17 17:00:02.000.429,=C:\Users\Erick\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/08/17 17:00:42.000.167,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\UFormMain.dfm=C:\Users\Erick\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
     <Transaction>2025/08/17 17:00:42.000.167,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\UFormMain.pas=C:\Users\Erick\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/08/17 17:00:42.000.167,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\UFormMain.dfm=C:\Users\Erick\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
     <Transaction>2025/08/17 17:01:08.000.089,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\prjCursoBasico.dproj=C:\Users\Erick\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
     <Transaction>2025/08/17 19:15:24.000.210,=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
-    <Transaction>2025/08/17 19:21:29.000.990,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uDmDadoss.dfm=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.dfm</Transaction>
     <Transaction>2025/08/17 19:21:29.000.990,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uDmDadoss.pas=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2025/08/17 19:21:29.000.990,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uDmDadoss.dfm=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.dfm</Transaction>
     <Transaction>2025/08/17 19:31:30.000.698,=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
     <Transaction>2025/08/17 19:32:31.000.762,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Classes\uBiblioteca.pas=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
     <Transaction>2025/08/18 08:46:37.000.104,=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
-    <Transaction>2025/08/18 08:47:34.000.760,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uFormConfigBanco.pas</Transaction>
     <Transaction>2025/08/18 08:47:34.000.760,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.dfm=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uFormConfigBanco.dfm</Transaction>
-    <Transaction>2025/08/18 10:43:59.000.692,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uDmDadoss.pas=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uDmDados.pas</Transaction>
+    <Transaction>2025/08/18 08:47:34.000.760,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uFormConfigBanco.pas</Transaction>
     <Transaction>2025/08/18 10:43:59.000.692,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uDmDadoss.dfm=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uDmDados.dfm</Transaction>
+    <Transaction>2025/08/18 10:43:59.000.692,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uDmDadoss.pas=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uDmDados.pas</Transaction>
     <Transaction>2025/08/18 11:45:52.000.956,=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
-    <Transaction>2025/08/18 11:47:40.000.794,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uFormCadastroPai.pas=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
     <Transaction>2025/08/18 11:47:40.000.794,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uFormCadastroPai.dfm=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.dfm</Transaction>
+    <Transaction>2025/08/18 11:47:40.000.794,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uFormCadastroPai.pas=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
     <Transaction>2025/08/18 15:17:01.000.797,=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
     <Transaction>2025/08/18 15:17:31.000.736,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uFormCadastroCliente.pas</Transaction>
     <Transaction>2025/08/18 15:17:31.000.736,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.dfm=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uFormCadastroCliente.dfm</Transaction>
+    <Transaction>2025/08/19 17:08:18.000.476,=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2025/08/19 17:08:57.000.503,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.dfm=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uFormCadastroEstado.dfm</Transaction>
+    <Transaction>2025/08/19 17:08:57.000.503,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uFormCadastroEstado.pas</Transaction>
+    <Transaction>2025/08/27 16:17:54.000.298,=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2025/08/27 16:20:32.000.945,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uFormCadastroCidade.dfm=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.dfm</Transaction>
+    <Transaction>2025/08/27 16:20:32.000.945,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uFormCadastroCidade.pas=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2025/08/27 16:22:01.000.185,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uFormCadastroCidade.pas=</Transaction>
+    <Transaction>2025/08/27 16:22:11.000.666,=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2025/08/27 16:22:36.000.008,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uFormCadastroCidade.pas=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2025/08/27 16:22:36.000.008,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Forms\uFormCadastroCidade.dfm=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.dfm</Transaction>
+    <Transaction>2025/08/27 17:19:47.000.716,=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2025/08/27 17:20:13.000.885,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Shared\uLookup.pas=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2025/08/27 17:20:13.000.885,D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Shared\uLookup.dfm=D:\Projetos\Estudo\Delphi\ProjetoCursoBasico\Unit1.dfm</Transaction>
   </Transactions>
 	<ProjectSortOrder AutoSort="0" SortType="0">
     <File Path="Classes"/>
@@ -36,5 +49,12 @@
     <File Path="Forms\uFormConfigBanco.dfm"/>
     <File Path="Forms\UFormMain.pas"/>
     <File Path="Forms\UFormMain.dfm"/>
+    <File Path="Forms\uFormCadastroEstado.pas"/>
+    <File Path="Forms\uFormCadastroEstado.dfm"/>
+    <File Path="Forms\uFormCadastroCidade.pas"/>
+    <File Path="Forms\uFormCadastroCidade.dfm"/>
+    <File Path="Shared"/>
+    <File Path="Shared\uLookup.pas"/>
+    <File Path="Shared\uLookup.dfm"/>
   </ProjectSortOrder>
 </BorlandProject>
