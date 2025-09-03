@@ -58,6 +58,7 @@ type
     Label13: TLabel;
     Label14: TLabel;
     procedure FormCreate(Sender: TObject);
+    procedure FormShow(Sender: TObject);
   private
     { Private declarations }
   public
@@ -75,12 +76,17 @@ implementation
 procedure TFormCadastroCliente.FormCreate(Sender: TObject);
 begin
   inherited; //Essa linha significa que estou herdando o formulário de um formulário "pai"
+
+end;
+
+procedure TFormCadastroCliente.FormShow(Sender: TObject);
+begin
+  inherited;
   Lookup.fdQryEstados.Open();
   Lookup.fdQryEstados.FetchAll;
 
   Lookup.fdQryCidades.Open();
   Lookup.fdQryCidades.FetchAll;
-
 end;
 
 end.

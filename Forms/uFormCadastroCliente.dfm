@@ -2,6 +2,7 @@ inherited FormCadastroCliente: TFormCadastroCliente
   Caption = 'Cadastro de Clientes'
   ClientHeight = 339
   StyleElements = [seFont, seClient, seBorder]
+  OnShow = FormShow
   ExplicitHeight = 378
   TextHeight = 15
   object Label3: TLabel [0]
